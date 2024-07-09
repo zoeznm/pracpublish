@@ -1,1 +1,1 @@
-console.log('Main page loaded');
+console.log('Hello, World!');
